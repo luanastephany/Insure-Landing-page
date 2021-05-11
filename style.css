@@ -1,0 +1,18 @@
+:root{
+  --violet: 	#2b272f;
+  --dark-violet: #2d2640;
+  --grayish-blue: 	#95a9c6;
+  --grey: 	#837d87;
+  --light: 	#fafafa;
+}
+
+body {
+  font-family: '', 'sans serif';
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+}
