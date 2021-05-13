@@ -1,0 +1,16 @@
+/*MEDIA*/
+
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: white;
+  }
+
+  #header-mobile {
+    display: none;
+  }
+
+
+
+
+
+}
